@@ -4,7 +4,7 @@ An Android application that draws a ball to the screen and makes it bounce with 
 
 ## Installation
 
-This .APK file is an un-signed debug package. Use this package to install the application:
+This .APK file is a debug package. Use this package to install the application:
 
 [BouncingBall Package](https://github.com/LaggerLimited/Android-Java-BouncingBall/blob/master/app-debug.apk)
 
