@@ -8,7 +8,7 @@ import android.graphics.RectF;
 import android.view.View;
 
 /**
- * <h1>BouncingBall</h1>
+ * <h1>BouncingBallView</h1>
  * This is an Android application that draws a ball to
  * the screen and bounces it with using a basic algorithm.
  *
